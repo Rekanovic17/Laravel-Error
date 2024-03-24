@@ -1,0 +1,87 @@
+Evo pojednostavljene verzije skripte:
+
+1) Osnovni zadaci konstruktora su:
+- Proučavanje sličnih konstrukcija
+- Voditi računa o cijeni, ekonomičnosti i pristupačnosti materijala
+- Standardizacija i odabir najpovoljnijih oblika sa stanovišta tehnoloških potreba, funkcionalnosti, pouzdanosti i utjecaja na okolinu.
+
+2) Faze procesa konstruiranja su:
+a) Koncipiranje
+b) Projektovanje
+c) Konstrukcijska razrada
+
+3) Koncipiranje obuhvata analizu i rješavanje osnovnih principa budućeg rada mašinskog sistema.
+
+4) Sastavni dijelovi projekta uključuju grafičke prikaze, rješenja funkcija, crteže dijelova s potrebnim podacima za izradu i upute za korištenje sistema.
+
+5) Faze konstruiranja proizvoda uključuju provjeru projektiranog rješenja, detaljnu razradu, završni proračun elemenata i izradu uputa za rad i održavanje sistema.
+
+6) Prototip ili nulta serija se izrađuju radi provjere karakteristika prije puštanja u proizvodnju.
+
+7) Na izbor materijala za konstrukciju utječu namjena, funkcija, oblik elementa, vrsta naprezanja, veličina i broj komada, način izrade, cijena i radni uvjeti.
+
+8) Pri izradi dijelova od lima koriste se tehnologija rezanja i tehnologija oblikovanja.
+
+9) Osnovne vrste naprezanja su zatezanje, pritisak, savijanje, smicanje, uvijanje, izvijanje, složeno naprezanje i kontaktna naprezanja.
+
+10) Zamor materijala je oštećenje u strukturi materijala nakon određenog broja promjena opterećenja.
+
+11) Održavanje može biti povremeno ili stalno, a obuhvata čišćenje, dotezanje veza i zamjenu dijelova prema potrebi.
+
+12) Opšti ciljevi standardizacije uključuju unapređenje ekonomičnosti, zaštitu interesa potrošača, sigurnost i bolje sporazumijevanje.
+
+13) Sniženje cijene se postiže primjenom standardnih elemenata, odabiranjem ekonomičnog materijala i smanjenjem troškova energije i održavanja.
+
+14) Osnovni pokazatelji maksimalne ekonomičnosti su troškovi rada i ostvareni dohodak.
+
+15) Osnovni pokazatelji dinamičkog ponašanja su vibracije i šum mašinskog sistema.
+
+16) Vibracije su periodična kretanja elemenata oko ravnotežnog položaja.
+
+17) Vibracije iznad određenog intenziteta mogu negativno utjecati na funkcioniranje sistema i zdravlje ljudi.
+
+18) Osnovne vrste vibracija su slobodne, prinudne i samopobudne.
+
+19) Buka nastaje uslijed trenja, sudaranja elemenata i vibracija, dok se potresi javljaju kod udarnih opterećenja.
+
+20) Rezonantno područje nastaje kada se frekvencija pobudnih sila poklopi s rezonantnom frekvencijom sistema.
+
+21) Ergonomija je nauka o primjeni ljudskog rada u industriji.
+
+22) Dizajn se odnosi na organizaciju i oblikovanje predmeta.
+
+23) Dizajn i marketing moraju djelovati istovremeno radi uspjeha proizvoda.
+
+24) Crtež omogućava vizualnu prezentaciju ideje dizajnera.
+
+25) Crtanje pomoću računara omogućava fleksibilnost i jednostavan prijelaz između 3D i 2D modela.
+
+26) Primjena CAD sistema racionalizuje rad u procesu konstruiranja i proizvodnje.
+
+27) Optimizacija konstrukcije traži najbolje rješenje u skladu s postavljenim kriterijima.
+
+28) Modeliranje u CAD-u definira svojstva objekata.
+
+29) CAD sistem se sastoji od konstruktora, hardvera i CAD softvera.
+
+30) Interfejsi omogućuju razmjenu podataka između računara i uređaja.
+
+31) Korisnički interfejs omogućava dijalog između korisnika i računara.
+
+32) Tehnička dokumentacija uključuje projekte, crteže, normative i kataloge.
+
+33) Održavanje može biti preventivno ili korektivno.
+
+34) Preventivno održavanje se provodi prije nastanka kvara, dok se korektivno provodi nakon kvara.
+
+35) Tekuće održavanje uključuje čišćenje i podmazivanje, dok se investiciono odnosi na velike popravke.
+
+36) Faktori koji utječu na adheziono trošenje su vrsta materijala i stanje površina.
+
+37) Korozija je razaranje materijala kemijskom ili elektrokemijskom reakcijom.
+
+38) Lom najčešće nastaje zbog grešaka pri zavarivanju ili montaži, termičkih naprezanja ili korozije.
+
+39) Upravljanje preventivnim održavanjem ima za cilj optimalno stanje i pouzdanost sistema.
+
+40) Koncipiranje idejnog rješenja obuhvaća utvrđivanje rasporeda sklopova radi ostvarivanja zadate funkcije.
