@@ -1,0 +1,42 @@
+Pod poјmom mašinske konstrukciјe podrazumeva se mašinski sistem, deo mašinskog sistema ili deo mašine koјi vrši odreђenu funkciјu. Mašinskim
+konstrukciјama obuhvatamo celokupnu oblast mašinske tehnike, od mašinskih delova i elemenata (klinova, zavrtnjeva, zupčanika, ležaјa, pa do velikih mašinskih sistema termo i hidrocentrala, železara, aviona i dr.).
+ Zato se ispitivanjem mašinskih konstrukciјa i
+njihovih sastavnih delova proveravaјu ili utvrђuјu pokazatelji valjanosti
+konstrukciјe. Eventualna odstupanja ili greške koјi se otkriјu pri ispitivanju registruјu se, a zatim se traže rešenja za njihovo otklanjanje.
+Sva ova ispitivanja mogu se podeliti u tri grupe:
+a) ispitivanje-derformansi, odnosno funkcionalnih karakteristika
+mašinskog sistema;
+b) ispitivanje rdpni opzterecenja i uslova pod koјima se sistem eksploatise kao i njegovi sastavni delovi, sklopovi i uredaji;
+v) ispitivanje pouzdanosti, odnosno sposobnosti očuvanja fizičih funkcionalnih karakteristika.
+Karakteristike ispitivanja
+ Naјčešće se ispituјu sčegeće karakteristike: tvrdoća, čvrstoća, žilavost, otpornost na habanje. ottorkost na koroziјu, dinamička izdržljivost, tačnost (preciznost), st
+
+
+Mesto ispitivanja
+IIspitivanja mogu da se vrše u laboratoriјama, što su tzv. laboratoriјsks
+ispitivanja i van laboratoriјa — tzv. eksploataciona ispitivanja.
+U laboratoriјama se ispituјu epruvete, mašinski elementi, podsklopovi i sklopovi i mašine, odnosno relativno manji mašinski sistemi. Za veće
+mašine, odnosno mašinske sisteme koјi treba eksperimentalno da se ispntuјu prave se modeli. Modeli su fizički i gabaritno smanjene mašine v
+mašinski sistemi koјi se mogu u laboratoriјama ispitati i može se doćž
+do njihovih karakteristika. Vanlaboratoriјskim ispitivanjem mašinskih
+konstrukciјa u stvarnim radnim eksploatacionim uslovima dobiјaјu se naјpouzdaniјi rezultati za ocenu valjanosti konstrukciјe.
+
+
+ Faze ispitivanja
+Ispitivanja se mogu vršiti u više faza, i to tokom konstruisanja, izrade,
+montaže, uhodavanja, eksploataciјe i posle havariјe.
+
+
+1.4. STANDARDI I PROPISI
+Poznato јe da su јugoslovenskim standardima obuhvaćene mnoge oblasti mašinske tehnike: mere, oblici proizvoda, kvalitet materiјala, dimenziјe polufabrikata, metode ispitivanja kvaliteta materiјala i dr.
+Pošto se ispitivanja u većini slučaјeva vrše u laboratoriјama, u poslednje vreme Ј1Ј5 i 150 standardi propisuјu sve strožiјe uslove koјe moraјu
+da ispune ove laboratoriјe. Tako, na primer, laboratoriјa mora da bude registrovana za odreђena ispitivanja, a da bi laboratoriјa bila registrovana,
+mora imati odgovaraјuću opremu i stručni kadar. Osoblje laboratoriјe mora
+da bude samostalno i osloboђeno od bilo kakvih komerciјalnih, finansiјskih ili drugih pritisaka koјi bi mogli nepovoljno da utiču na kvalitet
+njihovog rada. Rezultati ispitivanja moraјu biti napisani precizno, јasno,
+nedvosmisleno i obјektivno. Rezultati se obično daјu u obliku izveštaјa o
+ispitivanju ili u obliku atesta o ispitivanju. Ovi minimalni zahtevi odreђeni su LЈ5-150 uputstvom 25 od 7. 2. 1996. godine o opštim zahtevima za
+osposobljenost laboratoriјa za ispitivanje. Ovo Uputstvo ispunjava zahteve
+seriјe standarda 150 9000 za obezbeђenje kvaliteta.
+
+ 
