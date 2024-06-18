@@ -1,0 +1,19 @@
+KOMPJUTERSKA GRAFIKA
+Masinski tehnicar za kompjutersko projektovanje III razred.
+
+•  Kompjuterska grafika: Disciplinira računarstva koja se bavi komponovanjem, predstavljanjem i prikazivanjem grafičkih objekata pomoću računara. Primjenjuje se u CAD-u (Computer Aided Design) i CADD-u (Computer Aided Design Drafting).
+•  Sistemi kompjuterske grafike: Zasniva se na tri sistema - aplikativni, grafički i korisnički. Interfejsi su aplikativni, interfejs uređaja i interfejs korisnika.
+•  Interfejs korisnika: Koristi iskustvo sa okolnim prostorom i prepoznavanje geometrijskih formi. Korisnik koristi uređaje kao što su monitor ili ploter za prikaz grafičkih modela.
+•  Rasterska grafika (bitmapa): Predstavlja pravougaonu mrežu piksela. Svaka boja piksela je definisana, a kvalitet zavisi od rezolucije i dubine boje.
+•  Pikseli: Memorirani u računarskoj memoriji kao rasterska slika, predstavljaju dvo-dimenzionalni niz malih cjelina.
+•  Vektorska grafika: Prikazivanje slike pomoću geometrijskih oblika (tačke, linije, krive, poligoni) zasnovanih na matematičkim jednačinama.
+•  Načini prikazivanja objekata: Dvodimenzionalan (2D) i trodimenzionalan (3D). 3D prikaz može biti centralni (frontalna, ugaona, kosa perspektiva) ili paralelni (ortogonalna, kosougaona projekcija).
+•  Primitive: Osnovni elementi grafičkih sadržaja. Sastavljanjem primitiva formira se slika.
+•  Segmenti: Skup osnovnih grafičkih elemenata ili dio slike kojim se može manipulisati kao cjelinom.
+•  Grafička jedinica (Graphic display): Ekran koji omogućava prikaz grafičkih i alfanumeričkih podataka (LCD, CRT, plazma, SED, OLED).
+•  Grafička kartica: Obrađuje dvo-dimenzionalnu ili tro-dimenzionalnu sliku. Naziva se i grafički adapter, VGA kartica ili video kartica.
+•  Matematički modeli likova: Geometrijski likovi opisani analitički (tačka, linija, krug, poligoni) ili neanalitički (krive linije i površine).
+•  Grafičke transformacije: Operacije kao što su translacija, rotacija, refleksija, skaliranje, inverzija i iskošenje koje manipulišu položajem i oblikom grafičkih objekata.
+•  Geometrijski modeli: Osnovni predmet rada u CAD-u, uključujući žičani, površinski i zapreminski model.
+•  Features tehnike: Specijalizovane tehnike za geometrijsko operisanje (bušenje rupa, obaranje ivica, konstrukcija žljeba i drugih oblika).
+
